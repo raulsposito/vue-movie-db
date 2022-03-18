@@ -5,7 +5,7 @@
 
         <div class="search-wrapper p-4 mb-10 text-left">
             <label for="search" class="block text-sm font-medium text-gray-700">Search:</label>
-            <input class="shadow-sm focus:ring-red-500 focus:border-red-500 block self-center w-1/5 sm:text-sm border-gray-300 rounded-md" type="text" v-model="search" placeholder="Search by name..."/>
+            <input class="shadow-sm focus:ring-red-500 focus:border-red-500 block self-center w-full sm:w-1/5 sm:text-sm border-gray-300 rounded-md" type="text" v-model="search" placeholder="Search by name..."/>
         </div>
 
         <div class="wrapper">
