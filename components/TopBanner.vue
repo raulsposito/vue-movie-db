@@ -8,9 +8,9 @@
         <NuxtLink to="/curious" type="button" class="flex animate-spin">
             <img class="h-24 w-24 object-cover rounded-full ring-4 ring-white sm:h-32 sm:w-32" src="https://images.unsplash.com/photo-1622867072220-b76505e09a68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" alt="Vintage movie roll">
         </NuxtLink>
-        <div class="mt-6 sm:flex-1 sm:min-w-0 sm:flex sm:items-center sm:justify-end sm:space-x-6 sm:pb-1">
+        <div class="mt-6 flex-1 min-w-0 flex items-center justify-end space-x-6 pb-1">
             <div class="sm:hidden md:block mt-6 min-w-0 flex-1">
-            <h1 class="text-3xl font-bold text-gray-900 truncate">Vue Hired MovieDB!</h1>
+            <h1 class="hidden sm:block text-3xl font-bold text-gray-900 truncate">Vue Hired MovieDB!</h1>
             </div>
             <div class="mt-6 flex flex-col justify-stretch space-y-3 sm:flex-row sm:space-y-0 sm:space-x-4">
             <NuxtLink to="/whoami" type="button" class="inline-flex justify-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-pink-500">
