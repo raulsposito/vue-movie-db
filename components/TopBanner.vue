@@ -10,7 +10,7 @@
         </NuxtLink>
         <div class="mt-6 flex-1 min-w-0 flex items-center justify-end space-x-6 pb-1">
             <div class="sm:hidden md:block mt-6 min-w-0 flex-1">
-            <h1 class="hidden sm:block text-3xl font-bold text-gray-900 truncate">Vue Hired MovieDB!</h1>
+            <h1 class="hidden sm:block text-3xl font-bold text-gray-900 truncate">Vue Movie DataBase!</h1>
             </div>
             <div class="mt-6 flex flex-col justify-stretch space-y-3 sm:flex-row sm:space-y-0 sm:space-x-4">
             <NuxtLink to="/whoami" type="button" class="inline-flex justify-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-pink-500">
@@ -18,13 +18,13 @@
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M7 4v16M17 4v16M3 8h4m10 0h4M3 12h18M3 16h4m10 0h4M4 20h16a1 1 0 001-1V5a1 1 0 00-1-1H4a1 1 0 00-1 1v14a1 1 0 001 1z" />
                 </svg>
-                <span class="pl-2 my-auto">Who am I?</span>
+                <span class="pl-2 my-auto">Made with Vue for no reason</span>
             </NuxtLink>
             </div>
         </div>
         </div>
         <div class="hidden sm:block md:hidden mt-6 min-w-0 flex-1">
-        <h1 class="text-2xl font-bold text-gray-900 truncate">Vue Hired MovieDB!</h1>
+        <h1 class="text-2xl font-bold text-gray-900 truncate">Vue Movie DataBase!</h1>
         </div>
     </div>
     </div>

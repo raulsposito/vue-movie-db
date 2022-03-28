@@ -5,7 +5,7 @@
         <div class="mx-auto text-base max-w-prose lg:grid lg:grid-cols-2 lg:gap-8 lg:max-w-none">
         <div>
             <NuxtLink to="/" class="text-base text-red-600 font-semibold tracking-wide uppercase">go back</NuxtLink>
-            <h2 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Meet Raul</h2>
+            <h2 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">This site...</h2>
         </div>
         </div>
         <div class="mt-8 lg:grid lg:grid-cols-2 lg:gap-8">
@@ -21,27 +21,24 @@
             <div class="relative text-base mx-auto max-w-prose lg:max-w-none">
             <figure>
                 <div class="aspect-w-12 aspect-h-7 lg:aspect-none">
-                <img class="rounded-lg shadow-lg object-cover object-center" src="https://pbs.twimg.com/profile_images/1486015649331744772/yMLw9kna_400x400.jpg" alt="Raul facing forward picture" width="1184" height="1376">
+                <img class="rounded-lg shadow-lg object-cover object-center" src="https://images.unsplash.com/photo-1562758778-e5638b5b6607?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80" alt="" width="1184" height="1376">
                 </div>
                 <figcaption class="mt-3 flex text-sm text-gray-500">
                 <!-- Heroicon name: solid/camera -->
                 <svg class="flex-none w-5 h-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M4 5a2 2 0 00-2 2v8a2 2 0 002 2h12a2 2 0 002-2V7a2 2 0 00-2-2h-1.586a1 1 0 01-.707-.293l-1.121-1.121A2 2 0 0011.172 3H8.828a2 2 0 00-1.414.586L6.293 4.707A1 1 0 015.586 5H4zm6 9a3 3 0 100-6 3 3 0 000 6z" clip-rule="evenodd" />
                 </svg>
-                <span class="ml-2">Photograph by Herman Pascoll</span>
+                <span class="ml-2">The above is a Photograph</span>
                 </figcaption>
             </figure>
             </div>
         </div>
         <div class="mt-8 lg:mt-24">
             <div class="text-base max-w-prose mx-auto lg:max-w-none">
-            <p class="text-lg text-gray-700">Full Stack Developer.</p>
+            <p class="text-lg text-gray-700">...was made for fun 🎉</p>
             </div>
-            <div class="mt-5 prose prose-indigo text-gray-500 mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
-            <p>I <strong>love</strong> JavaScript | Vue | React.</p>
-
-            <br />
-            <p>This was built with Nuxt + Tailwind</p>
+            <div class="mt-12 prose prose-indigo text-gray-500 mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
+            <p>Nuxt + Tailwind</p>
 
             <br />
             <h3>I’d love to talk more!</h3>
