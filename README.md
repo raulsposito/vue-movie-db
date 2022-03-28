@@ -1,4 +1,4 @@
-# vueHiredMovieDB
+# vueMovieDB
 
 ## Build Setup
 
