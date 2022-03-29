@@ -1,5 +1,11 @@
 # vueMovieDB
 
+This is an Open Source / Educational project
+
+Made with Nuxt JS
+
+See [Deployed Version](https://vue-moviedb-sample.netlify.app/)
+
 ## Build Setup
 
 ```bash
