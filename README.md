@@ -6,6 +6,8 @@ Made with Nuxt JS
 
 See [Deployed Version](https://vue-moviedb-sample.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/36674d1e-b2a3-4c1e-ac01-155e7f3e68a8/deploy-status)](https://app.netlify.com/sites/vue-moviedb-sample/deploys)
+
 ## Build Setup
 
 ```bash
